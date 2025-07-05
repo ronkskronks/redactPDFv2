@@ -1,0 +1,22 @@
+[
+  {
+    "page": 0,
+    "bbox": [
+      10,
+      10,
+      50,
+      50
+    ],
+    "text": "Nome Exemplo"
+  },
+  {
+    "page": 0,
+    "bbox": [
+      100,
+      100,
+      120,
+      120
+    ],
+    "text": "Outro Nome"
+  }
+]
